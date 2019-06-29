@@ -1,6 +1,6 @@
 var camera, scene, renderer;
 var geometry, material, mesh;
-alert('kchep')
+
 init();
 animate();
 
